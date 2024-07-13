@@ -1,0 +1,1 @@
+DSROM=`basename ${PWD}.nds` && make && cp $DSROM /mnt/h/umlf/nogba/
